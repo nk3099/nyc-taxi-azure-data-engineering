@@ -27,3 +27,12 @@ We are considering following CSV data within the [raw-data](https://github.com/n
 - Azure
 - Databricks
 
+# Connect Databricks to Azure Data Lake Storage Gen2:
+Reference:
+https://learn.microsoft.com/en-us/azure/databricks/connect/storage/tutorial-azure-storage 
+
+![image](https://github.com/user-attachments/assets/401d3ae3-f611-4227-a989-6f6aeda05bc4)
+
+
+
+
