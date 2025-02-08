@@ -12,7 +12,8 @@
 
 
 # <a name="overview-of-the-design"></a> Overview of the Design
-![Architecture_Design]()
+![image](https://github.com/user-attachments/assets/0ee87925-f054-4640-be9b-2d951db01d00)
+
 
 # <a name="Dataset"></a>Dataset
 For this project, we are going to use the following dataset : [Taxi Trip Records](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) 
