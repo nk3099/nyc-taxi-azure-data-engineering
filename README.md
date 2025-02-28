@@ -34,6 +34,9 @@ https://learn.microsoft.com/en-us/azure/databricks/connect/storage/tutorial-azur
 
 ![image](https://github.com/user-attachments/assets/401d3ae3-f611-4227-a989-6f6aeda05bc4)
 
+# <a name="workflow-demo"></a> Workflow Demo
+[![Workflow Demo](https://img.youtube.com/vi/CNlU7BRUIFY/0.jpg)](https://www.youtube.com/watch?v=CNlU7BRUIFY)
+
 
 
 
